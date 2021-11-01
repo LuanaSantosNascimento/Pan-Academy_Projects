@@ -1,0 +1,32 @@
+[
+	{
+		"Editora": "Jose Olympio",
+		"Genero": "Romance | Ficcao",
+		"Autor": "Jorge Amado",
+		"Nome": "Capitaes de Areia"
+	},
+	{
+		"Editora": "Intrinseca",
+		"Genero": "Fantasia | Guerra | Drama",
+		"Autor": "Guillermo Del Toro e Cornelia Funke",
+		"Nome": "Labirinto do Fauno"
+	},
+	{
+		"Editora": "Suma",
+		"Genero": "Romance | Fantasia | Realismo magico",
+		"Autor": "Philip Pullman",
+		"Nome": "O Livro das Sombras: La Belle Sauvage"
+	},
+	{
+		"Editora": "Pe da Letra",
+		"Genero": "Literatura infantil",
+		"Autor": "Antoine De Saint-Exupery",
+		"Nome": "O Pequeno Principe"
+	},
+	{
+		"Editora": "Biblioteca Azul",
+		"Genero": "Ficcao gotica | Roamance filosofico",
+		"Autor": "Oscar Wilde",
+		"Nome": "O Retrato de Dorian Gray"
+	}
+]

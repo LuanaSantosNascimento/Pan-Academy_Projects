@@ -1,0 +1,15 @@
+{
+	"Nome": "Ana",
+	"Idade": "35",
+	"Nacionalidade": "Brasileira",
+	"Viagens": [
+		"Museu Van Gogh",
+		"Bonito - MS",
+		"Jalapao - TO"
+	],
+	"Livros": [
+		"Capitaes de Areia - Jorge Amado",
+		"Admiravel mundo novo - Aldous Leonard Huxley ",
+		"O Corcunda de Notre Dame - Victor Hugo"
+	]
+}
