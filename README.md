@@ -17,3 +17,4 @@
   - <a href="./Java_Projects">Conceitos de java</a>
   - <a href="./Spring-Boot_Projects">Projetos realizados com Spring Boot</a>
   - <a href="./Databases">Banco de dados</a>
+  - <a href="https://github.com/LuanaSantosNascimento/bluebank">Projeto Final: Bluebank</a>
