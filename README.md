@@ -12,6 +12,7 @@
 </div>
 
 ## Conteúdos 
+  - <A href="[Ementa]PanAcademy-JavaeAWS.pdf">Ementa do curso</a>
   - <a href="./Extra_Tasks">Tarefas extras</a>
   - <a href="./JUnit_Projects">Projetos de teste</a>
   - <a href="./Java_Projects">Conceitos de java</a>
